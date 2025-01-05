@@ -2,3 +2,7 @@
   background-color: aqua;
   text-align: center;
 }
+.yt {
+  box-shadow: 10px 10px 10px 10px rgb(210, 66, 210);
+  border-radius: 10px;
+}
